@@ -1,93 +1,75 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Silas%20Yang&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Agent%20Infrastructure%20%C2%B7%20LLM%20Systems%20%C2%B7%20CUDA&descAlignY=55&descSize=18" width="100%"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Building+AI+Agent+Infrastructure+%F0%9F%A4%96;Rust+%C2%B7+Go+%C2%B7+Python+%C2%B7+C%2B%2B+%C2%B7+CUDA;LLM+Systems+%26+High-Performance+Computing;Making+agents+faster%2C+safely+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-</div>
-
----
-
-### 🧑‍💻 About Me
-
-- 🔭 Working on **AI Agent infra**: sandboxes, memory systems, agent frameworks
-- ⚡ Into **LLM systems & high-performance computing**: CUDA, inference engines, compilers
-- 🦀 Rustacean · Gopher · Pythonista · C++ / CUDA hacker
-- 🎯 Believer in *local-first, secure, and fast* agent tooling
-
----
-
-### 🛠️ Tech Stack
-
-<div align="center">
-
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shsaihdsaiudh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shsaihdsaiudh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+  <img src="./assets/header.svg" width="100%" alt="Silas Yang — AI agents, systems, and high-performance machine learning" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=shsaihdsaiudh&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <a href="mailto:2776079516@qq.com"><img src="https://img.shields.io/badge/Email-18181B?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.uestc.edu.cn/"><img src="https://img.shields.io/badge/UESTC-Chengdu-7C3AED?style=flat-square" alt="UESTC" /></a>
+  <img src="https://komarev.com/ghpvc/?username=shsaihdsaiudh&style=flat-square&color=0EA5E9&label=views" alt="Profile views" />
 </div>
 
----
+<br />
 
-### 🏆 Trophies
+I build practical AI tools and systems — from **local-first developer workflows** to **C++/CUDA learning projects**. Currently studying Information and Communication Engineering at UESTC in Chengdu.
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shsaihdsaiudh&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies"/>
-</div>
+### What I'm working on
 
----
+- Building developer tools that make multi-project and agent workflows easier to understand.
+- Exploring LLM systems, long-running agents, autograd, and GPU computing.
+- Turning ideas into small, useful, open-source products.
 
-### 🚀 Featured Projects
+### Featured builds
 
-<div align="center">
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/shsaihdsaiudh/project-tracter">Project Tracker</a></h3>
+      <p>A local-first context tracker for multiple coding projects, with AI-generated daily notes for Obsidian.</p>
+      <p><code>TypeScript</code> <code>Local-first</code> <code>AI</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/shsaihdsaiudh/hy3-issue-copilot">Hy3 Issue Copilot</a></h3>
+      <p>Turns GitHub issues into scoped plans, risk controls, acceptance criteria, and PR checklists.</p>
+      <p><code>Python</code> <code>LLM</code> <code>OpenRouter</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/shsaihdsaiudh/interview">Interview</a></h3>
+      <p>A campus mock-interview matching platform built with React, Go, and PostgreSQL.</p>
+      <p><code>Go</code> <code>React</code> <code>PostgreSQL</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/shsaihdsaiudh/TinyInfiniTrain">TinyInfiniTrain</a></h3>
+      <p>A minimal C++ training framework with autograd, CPU/CUDA kernels, and end-to-end GPT-2 training.</p>
+      <p><code>C++</code> <code>CUDA</code> <code>Autograd</code></p>
+    </td>
+  </tr>
+</table>
 
-[![CubeSandbox](https://github-readme-stats.vercel.app/api/pin/?username=shsaihdsaiudh&repo=CubeSandbox&theme=tokyonight&hide_border=true)](https://github.com/shsaihdsaiudh/CubeSandbox)
-[![trpc-agent-go](https://github-readme-stats.vercel.app/api/pin/?username=shsaihdsaiudh&repo=trpc-agent-go&theme=tokyonight&hide_border=true)](https://github.com/shsaihdsaiudh/trpc-agent-go)
-[![TencentDB-Agent-Memory](https://github-readme-stats.vercel.app/api/pin/?username=shsaihdsaiudh&repo=TencentDB-Agent-Memory&theme=tokyonight&hide_border=true)](https://github.com/shsaihdsaiudh/TencentDB-Agent-Memory)
-[![Learning-CUDA](https://github-readme-stats.vercel.app/api/pin/?username=shsaihdsaiudh&repo=Learning-CUDA&theme=tokyonight&hide_border=true)](https://github.com/shsaihdsaiudh/Learning-CUDA)
+### Toolbox
 
-</div>
+<p>
+  <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=60A5FA" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=60A5FA" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Go-0D1117?style=flat-square&logo=go&logoColor=22D3EE" alt="Go" />
+  <img src="https://img.shields.io/badge/C%2B%2B-0D1117?style=flat-square&logo=cplusplus&logoColor=A78BFA" alt="C++" />
+  <img src="https://img.shields.io/badge/CUDA-0D1117?style=flat-square&logo=nvidia&logoColor=84CC16" alt="CUDA" />
+  <img src="https://img.shields.io/badge/PyTorch-0D1117?style=flat-square&logo=pytorch&logoColor=FB7185" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=38BDF8" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=FACC15" alt="Linux" />
+</p>
 
----
-
-### 🐍 Contribution Snake
+### Contribution trail
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shsaihdsaiudh/shsaihdsaiudh/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shsaihdsaiudh/shsaihdsaiudh/output/github-contribution-grid-snake.svg"/>
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shsaihdsaiudh/shsaihdsaiudh/output/github-contribution-grid-snake.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shsaihdsaiudh/shsaihdsaiudh/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shsaihdsaiudh/shsaihdsaiudh/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/shsaihdsaiudh/shsaihdsaiudh/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
   </picture>
 </div>
 
----
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=shsaihdsaiudh&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views"/>
+  <sub>Always building, always learning.</sub>
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
-
