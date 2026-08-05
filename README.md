@@ -5,7 +5,6 @@
 <div align="center">
   <a href="mailto:2776079516@qq.com"><img src="https://img.shields.io/badge/Email-18181B?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.uestc.edu.cn/"><img src="https://img.shields.io/badge/UESTC-Chengdu-7C3AED?style=flat-square" alt="UESTC" /></a>
-  <img src="https://komarev.com/ghpvc/?username=shsaihdsaiudh&style=flat-square&color=0EA5E9&label=views" alt="Profile views" />
 </div>
 
 <br />
