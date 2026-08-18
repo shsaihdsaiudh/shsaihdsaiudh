@@ -47,10 +47,10 @@ I'm **Yeyuan Yang**, an Information and Communication Engineering student at UES
       <p><code>TypeScript</code> <code>Local-first</code> <code>AI</code></p>
     </td>
     <td width="50%" valign="top">
-      <sub>02 / LLM WORKFLOW</sub>
-      <h3><a href="https://github.com/shsaihdsaiudh/hy3-issue-copilot">Hy3 Issue Copilot ↗</a></h3>
-      <p>Turns GitHub issues into scoped plans, risk controls, acceptance criteria, and PR checklists.</p>
-      <p><code>Python</code> <code>LLM</code> <code>OpenRouter</code></p>
+      <sub>02 / LLM SERVING</sub>
+      <h3><a href="https://github.com/shsaihdsaiudh/AgentKV">AgentKV ↗</a></h3>
+      <p>Agent-aware prefix-cache retention for vLLM, reducing redundant prefill by 31% on a real GPU engine.</p>
+      <p><code>Python</code> <code>vLLM</code> <code>KV Cache</code></p>
     </td>
   </tr>
   <tr>
