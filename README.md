@@ -61,10 +61,10 @@ I'm **Yeyuan Yang**, an Information and Communication Engineering student at UES
       <p><code>Go</code> <code>React</code> <code>PostgreSQL</code></p>
     </td>
     <td width="50%" valign="top">
-      <sub>04 / ML FROM SCRATCH</sub>
-      <h3><a href="https://github.com/shsaihdsaiudh/TinyInfiniTrain">TinyInfiniTrain ↗</a></h3>
-      <p>A minimal C++ training framework with autograd, CPU/CUDA kernels, and end-to-end GPT-2 training.</p>
-      <p><code>C++</code> <code>CUDA</code> <code>Autograd</code></p>
+      <sub>04 / GPU SYSTEMS</sub>
+      <h3><a href="https://github.com/shsaihdsaiudh/cuda-graph-manager">Graph Tuner ↗</a></h3>
+      <p>Selects workload-aware CUDA graph capture sets for vLLM, cutting graph memory by 62% at comparable latency.</p>
+      <p><code>Python</code> <code>vLLM</code> <code>CUDA</code></p>
     </td>
   </tr>
 </table>
